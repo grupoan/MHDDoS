@@ -17,9 +17,6 @@ wget https://github.com/grupoan/MHDDoS/raw/refs/heads/main/project.zip
 # Descompactar
 unzip -o project.zip
 
-# Entrar na pasta do projeto (caso exista)
-cd project || exit
-
 # Instalar dependências
 npm install
 
