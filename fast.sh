@@ -12,10 +12,9 @@ export NVM_DIR="$HOME/.nvm"
 nvm install 20
 
 # Baixar projeto
-wget https://github.com/grupoan/MHDDoS/raw/refs/heads/main/project.zip
+git clone https://github.com/grupoan/MHDDoS.git
 
-# Descompactar
-unzip -o project.zip
+cd MHDDoS/GT
 
 # Instalar dependências
 npm install
