@@ -15,7 +15,7 @@ setInterval(_ => {
       headers: {
           'accept': 'application/json, text/plain, */*',
           'accept-language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
-          'authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NDQyMDE2LCJlbWFpbCI6ImFybWFuZG9AcGl4bGFuZC5jb20uYnIiLCJpYXQiOjE3NzEzMjQxODUsImV4cCI6MTc3MTQxMDU4NX0.wBFUIZSItEwOGL6gMG6pvJy_NCI5qnGdCYm4GNVlRv0',
+          'authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NDQyMDE2LCJlbWFpbCI6ImFybWFuZG9AcGl4bGFuZC5jb20uYnIiLCJpYXQiOjE3NzEzOTE4MjMsImV4cCI6MTc3MTQ3ODIyM30.rW7D2ZhPLXTZUoRq6mNz63zcyy0MbrLJM2tTn_DgY3Y',
           'content-type': 'application/json',
           'origin': 'https://ucp.gtatorcidas.net',
           'priority': 'u=1, i',
