@@ -19,3 +19,5 @@ cd MySQL-Brute-Force
 python3 -m ensurepip --upgrade
 
 python -m pip install -r requirements.txt
+
+python main.py --server= --port=3306
